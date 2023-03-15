@@ -8,3 +8,8 @@
 	url = https://github.com/kasperwelbers/corpustools
 	shallow = true
 	registered = true
+[submodule "tokenbrowser"]
+	path = tokenbrowser
+	url = https://github.com/kasperwelbers/tokenbrowser
+	shallow = true
+	registered = true

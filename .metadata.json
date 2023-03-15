@@ -2,5 +2,9 @@
   {
     "package": "corpustools",
     "oncran": true
+  },
+  {
+    "package": "tokenbrowser",
+    "oncran": true
   }
 ]
