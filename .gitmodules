@@ -8,6 +8,16 @@
 	url = https://github.com/kasperwelbers/corpustools
 	shallow = true
 	registered = true
+[submodule "RNewsflow"]
+	path = RNewsflow
+	url = https://github.com/cran/RNewsflow
+	shallow = true
+	registered = true
+[submodule "rsyntax"]
+	path = rsyntax
+	url = https://github.com/cran/rsyntax
+	shallow = true
+	registered = true
 [submodule "tokenbrowser"]
 	path = tokenbrowser
 	url = https://github.com/kasperwelbers/tokenbrowser
