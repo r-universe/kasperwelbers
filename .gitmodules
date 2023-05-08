@@ -10,7 +10,7 @@
 	registered = true
 [submodule "RNewsflow"]
 	path = RNewsflow
-	url = https://github.com/cran/RNewsflow
+	url = https://github.com/kasperwelbers/rnewsflow
 	shallow = true
 	registered = true
 [submodule "rsyntax"]
