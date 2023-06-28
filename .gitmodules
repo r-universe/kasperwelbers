@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "corpustools"]
 	path = corpustools
 	url = https://github.com/kasperwelbers/corpustools
-	shallow = true
-	registered = true
 [submodule "RNewsflow"]
 	path = RNewsflow
 	url = https://github.com/kasperwelbers/rnewsflow
-	shallow = true
-	registered = true
 [submodule "rsyntax"]
 	path = rsyntax
 	url = https://github.com/cran/rsyntax
-	shallow = true
-	registered = true
 [submodule "tokenbrowser"]
 	path = tokenbrowser
 	url = https://github.com/kasperwelbers/tokenbrowser
-	shallow = true
-	registered = true
