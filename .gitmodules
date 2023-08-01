@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "corpustools"]
-	path = corpustools
-	url = https://github.com/kasperwelbers/corpustools
 [submodule "RNewsflow"]
 	path = RNewsflow
 	url = https://github.com/kasperwelbers/rnewsflow
+[submodule "corpustools"]
+	path = corpustools
+	url = https://github.com/kasperwelbers/corpustools
 [submodule "rsyntax"]
 	path = rsyntax
 	url = https://github.com/cran/rsyntax
